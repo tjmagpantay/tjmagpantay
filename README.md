@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tjmagpantay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TJ's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjmagpantay&theme=tokyonight&hide_border=true" alt="TJ's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmagpantay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://metrics.lecoq.io/tjmagpantay?template=classic&config.timezone=Asia%2FMagadai" alt="Metrics" />
+  <img src="https://metrics.lecoq.io/tjmagpantay?template=classic&config.timezone=Asia%2FManila" alt="Metrics" />
 </div>
 
 ## 🔥 Contribution Activity
