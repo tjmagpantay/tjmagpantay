@@ -8,7 +8,7 @@ I'm a Full Stack Developer who creates seamless digital experiences that bridge 
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css,react,nextjs,flutter,bootstrap,tailwind,nodejs,mongodb,mysql,postgres,git,github,vscode,figma,ai" alt="Tech Stack" />
 </div>
 
-/ᐠ > ˕ <マ GitHub Stats
+<h2> /ᐠ > ˕ <マ GitHub Stats </h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tjmagpantay&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
