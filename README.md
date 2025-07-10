@@ -4,7 +4,7 @@ I'm a Full Stack Developer who creates seamless digital experiences that bridge 
 
 (˶˃ ᵕ ˂˶) Languages and Tools
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css,react,nextjs,flutter,bootstrap,tailwind,nodejs,mongodb,mysql,postgres,git,github,vscode,figma,ai" alt="Tech Stack" />
 </div>
 
