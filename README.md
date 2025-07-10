@@ -1,4 +1,4 @@
-/ᐠ ˵> ˕ <˵マ Tech Stack
+<h3> /ᐠ ˵> ˕ <˵マ Tech Stack </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css,react,nextjs,flutter,bootstrap,tailwind,nodejs,mongodb,mysql,postgres,git,github,vscode" alt="Tech Stack" /> <br>
 </div>
