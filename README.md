@@ -12,6 +12,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmagpantay&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 </div>
+<div> <br> </div>
 <h2> ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ Contribution Activity </h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tjmagpantay&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
