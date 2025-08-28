@@ -8,9 +8,5 @@ I'm a Full Stack Developer who creates seamless digital experiences that bridge 
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css,react,flutter,bootstrap,tailwind,nodejs,mongodb,mysql,postgres,git,github,vscode,figma,ai" alt="Tech Stack" />
 </div>
 
-<h2> /ᐠ > ˕ <マ GitHub Stats </h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmagpantay&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide_progress=false" alt="Top Languages" />
-</div>
+<h2> /ᐠ > ˕ <マ Haloooo! </h2>
 
