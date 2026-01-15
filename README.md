@@ -1,2 +1,2 @@
-mediocre dev, but im into silly side projects <3
+mediocre dev. im into silly side projects <3
 
