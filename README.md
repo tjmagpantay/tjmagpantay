@@ -1,5 +1,5 @@
 ```yaml
-name: Tj Magpantay
+name: Tammy Jane Magpantay
 username: tatami
 focus: Software Development / Automations
 learning_path: exploring modern web dev, software architecture, cloud technologies, and AI-powered automation
